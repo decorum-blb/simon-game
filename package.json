@@ -1,0 +1,24 @@
+{
+    "name": "simon-game",
+    "version": "0.0.1",
+    "description": "Web based version of the popular Simon game",
+    "main": "js/main.js",
+    "dependencies": {},
+    "devDependencies": {
+        "http-server": "^0.11.1"
+    },
+    "scripts": {
+        "start": "./node_modules/.bin/http-server -a localhost -p 8080 -c-1",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thatadamedwards/simon-game.git"
+    },
+    "author": "Adam Edwards",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/thatadamedwards/simon-game/issues"
+    },
+    "homepage": "https://github.com/thatadamedwards/simon-game#readme"
+}

@@ -1,0 +1,31 @@
+.is-red {
+    background-color: hsl(348, 100%, 61%);
+}
+
+.is-red-active {
+    background-color: hsl(348, 100%, 71%);
+}
+
+.is-blue {
+    background-color: hsl(204, 86%, 53%);
+}
+
+.is-blue-active {
+    background-color: hsl(204, 86%, 63%);
+}
+
+.is-green {
+    background-color: hsl(141, 71%, 48%);
+}
+
+.is-green-active {
+    background-color: hsl(141, 71%, 58%);
+}
+
+.is-yellow {
+    background-color: hsl(48, 100%, 67%)
+}
+
+.is-yellow-active {
+    background-color: hsl(48, 100%, 77%)
+}
